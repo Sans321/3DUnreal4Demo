@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Landmass",
+			"Enabled": true
+		},
+		{
+			"Name": "land",
+			"Enabled": false
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		}
+	]
+}
